@@ -13,11 +13,12 @@ The project was developed using the Python programming language and the Telebot 
 
 ## Getting started
 To start using the bot, you need to:
-1. Create a bot in BotFather
-2. Write the bot token to a file config.py
-3. Run the file main.py
-4. Go to your Telegram bot
-5. Send the /start command and follow the instructions in the bot
+1. Add scripts to the virtual environment and install libraries: 'telebot' and 're'
+2. Create a bot in BotFather
+3. Write the bot token to a file config.py
+4. Run the file main.py
+5. Go to your Telegram bot
+6. Send the /start command and follow the instructions in the bot
 
 ## Development and support
 This is my first project, and I admit that it may not be the most optimized. However, I am constantly working to improve its performance and appearance. Your feedback and suggestions will help make Kupidonchik better.
